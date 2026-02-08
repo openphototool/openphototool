@@ -20,6 +20,10 @@ Package.resolved
 # CocoaPods
 Pods/
 
+# AI/agent config
+CLAUDE.md
+.claude/
+
 # macOS
 .DS_Store
 .AppleDouble
